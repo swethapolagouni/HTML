@@ -1,0 +1,33 @@
+<!DOCTYPE  html>
+<html>
+<head>
+	<title>
+		Book Shop
+	</title>
+</head>
+<body>
+	<h1 align="center">SMARTBOOKS</h1>
+	<hr>
+
+	<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp; &emsp;HOME&emsp;&emsp;&emsp;&emsp; SHOP&emsp;&emsp;&emsp; &emsp;BLOG &emsp;&emsp;&emsp; &emsp;CONTACT US&emsp;&emsp;&emsp; &emsp;ABOUT US&emsp;&emsp;&emsp;&emsp;
+		 <input align="right"  class ="form-control"type="Search"  placeholder="Search..">  <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+</p>
+<center><img src="https://bellevilleparkpages.files.wordpress.com/2013/07/547099_195902397243097_989441470_n.jpg" width="1000" height="500"></center>
+	<h1 align="center">Popular Books</h1>
+
+	&emsp;&emsp;&emsp; &emsp;<img src="https://tse2.mm.bing.net/th?id=OIP.lXAQDeDu2v0heQ6VLrT3DQHaLH&pid=Api&P=0&w=300&h=300">&emsp;&emsp;
+
+	<img src="https://tse3.mm.bing.net/th?id=OIP.DWpuxOwdAziRop9wAOMZqQAAAA&pid=Api&P=0&w=300&h=300">&emsp;&emsp;
+	<img src="https://warnerwriting.files.wordpress.com/2014/06/missing-men-book-title.jpg?w=225&h=300">&emsp;&emsp;
+	<img src="https://tse2.mm.bing.net/th?id=OIP.zDocCu_fYxBrWB1tyFUxAgHaLb&pid=Api&P=0&w=300&h=300">;&emsp; &emsp;
+<img src="https://tse2.mm.bing.net/th?id=OIP.RUwIrAQk2_D6wvC1DzUO5gHaJ4&pid=Api&P=0&w=300&h=300">
+
+<p >ABOUT US</p>
+	<P style="font-size:20px">SmartBooks consists of collection of over 10million titles under various categories such as Bussiness & economics,fiction,romance,thriller,childrens books and many more.It offers a wide range of books that certainly matches your requirement as well as the budget.Furthurmore,it provides attractive discounts as well as helps you to get your book delivered to your doorstep.Moreover the following books will boost the knowledge and ideas among you and help you to be successful furthur.</P>
+
+</body>
+</html>
+
+</body>
+
+
